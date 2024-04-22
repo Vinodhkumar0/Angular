@@ -1,0 +1,31 @@
+.hello{
+  background-color: darkslategray;
+  display: flex;
+  justify-content: space-between;
+  padding:4px 0 4px 0;
+}
+.navbar-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end; /* Align items to the end of the navbar */
+  }
+  .notification{
+    display: flex;
+   
+    color: white;
+    text-decoration: none;
+  }
+  .home{
+    display: flex;
+    justify-content: flex-start;
+    text-decoration: none;
+    color: white;
+  }
+  .fas{
+    color: aliceblue;
+  }
+  
+  
+  
+  
+  

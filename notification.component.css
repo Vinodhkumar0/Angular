@@ -1,0 +1,109 @@
+
+.frame-317 {
+  width: 478px;
+  height: 624px;
+  margin: 0 0 6px 167px;
+  padding: 24px 2.5px 213px 10px;
+  box-shadow: 0 0 14.4px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.notification-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+
+.top {
+  display: flex;
+  justify-content: end;
+}
+
+.notification {
+  font-size: 24px;
+  /* Increase font size */
+}
+
+.mark-all-read-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.rou {
+  text-decoration: none;
+  color: blue;
+}
+
+.frame-73358 {
+  width: 456px;
+  height: 86px;
+  margin: 18px 6.5px 0 0;
+  padding: 8px 16px;
+  border: 1px;
+  border-collapse: collapse;
+  /* Collapse table borders */
+}
+
+table tr:nth-child(odd) {
+  background-color: #edffe9;
+}
+
+.frame-73358 table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+.Eclipse-60 {
+  width: 50px;
+
+  height: 50px;
+
+
+  text-align: center;
+
+  line-height: 50px;
+
+}
+
+.notification-content {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.notification-content>* {
+  margin-bottom: 5px;
+
+}
+
+
+.notification-type {
+  font-weight: bold;
+
+}
+
+.notification-actions {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin-right: 44px;
+}
+
+.gap {
+  width: 10px;
+
+}
+
+.approve-btn {
+  background-color: green;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.cancel-btn {
+  border-radius: 5px;
+}
